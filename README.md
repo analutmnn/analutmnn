@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou a Anna Luiza! 👋
 
-<!--
-**analutmnn/analutmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou em transição para a área tech, cursando **Sistemas de Informação** e mergulhando no mundo dos dados.
 
-Here are some ideas to get you started:
+### 🎯 Meu Foco Atual:
+- 📊 **Análise de Dados & Dashboards:** Transformando dados brutos em insights visuais.
+- 🧠 **IA & Redes Neurais:** Estudando como modelos inteligentes resolvem problemas complexos.
+- 🛠️ **Desenvolvimento:** Aprimorando lógica de programação e arquitetura de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Formação & Complementação:
+- 🎓 Graduanda em Sistemas de Informação.
+- 📜 Realizando cursos focados em Python para Dados, Machine Learning e Visualização.
+
+### 🛠️ Tecnologias que estou explorando:
+![Python](https://shields.io)
+![Pandas](https://shields.io)
+![Power Bi](https://shields.io)
